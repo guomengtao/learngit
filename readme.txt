@@ -17,3 +17,4 @@ another day try learn git again
 but,if you can not vist internet  you also can use git to commit in your computer .
 
 
+why i can not see this message 
