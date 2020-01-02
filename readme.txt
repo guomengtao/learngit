@@ -1,3 +1,4 @@
+ # Do not forget the markdowm to use in github
 Git is a version control system.
 Git is free software.
 1234567
@@ -18,3 +19,20 @@ but,if you can not vist internet  you also can use git to commit in your compute
 
 
 why i can not see this message 
+
+changge to another user name
+
+
+## about the web front need leaning 
+ - JavaScript 
+ - JQuery
+ - Node.js
+ - Bowers
+
+## These not learn now,The first learn PHP
+ - git
+ - composer
+ - packge of php
+ 
+
+
