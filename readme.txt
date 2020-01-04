@@ -40,4 +40,6 @@ changge to another user name
 
  try link gitee together
 
+ try one push could gitee and github together!
+
 
