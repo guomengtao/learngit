@@ -42,4 +42,6 @@ changge to another user name
 
  try one push could gitee and github together!
 
+ git quickly learn how to use lesson!
+
 
