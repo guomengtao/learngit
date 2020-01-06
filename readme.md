@@ -6,3 +6,7 @@ build this readme.md for use markdown to write.
 - update gitee and github
 - try use markdown 
 - answer some questions
+
+## Jack 
+
+i forget lots markdown how to use
