@@ -21,3 +21,5 @@ i forget lots markdown how to use
 
  practice again
 
+ only on working area
+
