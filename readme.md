@@ -17,5 +17,11 @@ i forget lots markdown how to use
 - *.mp4
 - ignore.php
 - test.txt
- test diff 
+- test diff 
+
+
+### use pull get the news file when meeting different with server
+
++ pull first
++ edit the different again
 
