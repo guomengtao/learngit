@@ -24,11 +24,12 @@ i forget lots markdown how to use
 
 + pull first
 + edit the different again
-+ try when change content on gitee how to edit this different question
++ try when change content on gitee how to edit this 
++ different question
++ practice again
++ only on working area
 
- practice again
 
- only on working area
 
 
 
