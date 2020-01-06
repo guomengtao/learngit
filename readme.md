@@ -3,7 +3,7 @@
 build this readme.md for use markdown to write.
 
 ### try learn and practice markdown today
-- update gitee and github
+- update gitee and github.com
 - try use markdown 
 - answer some questions
 
@@ -18,4 +18,6 @@ i forget lots markdown how to use
 - ignore.php
 - test.txt
  test diff 
+
+ practice again
 
