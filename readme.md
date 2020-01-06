@@ -13,6 +13,6 @@ i forget lots markdown how to use
 
 ## git ignore files by use .gitignore file
 
-- *.mp4
-- ignore.php
-- test.txt
+> *.mp4
+> ignore.php
+> test.txt
