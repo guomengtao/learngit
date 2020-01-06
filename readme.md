@@ -28,7 +28,9 @@ i forget lots markdown how to use
 
  practice again
 
- only on working area
+ only on working area 
 
+ ask branch
 
+use checkout command for change to ask brach 
 
