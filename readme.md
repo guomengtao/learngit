@@ -10,3 +10,9 @@ build this readme.md for use markdown to write.
 ## Jack 
 
 i forget lots markdown how to use
+
+## git ignore files by use .gitignore file
+
+ > *.mp4
+ > ignore.php
+ > test.txt
