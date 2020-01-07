@@ -18,7 +18,7 @@ i forget lots markdown how to use
 - ignore.php
 - test.txt
 - test diff 
-- i am born in bbs branch
+
 
 ### use pull get the news file when meeting different with server
 
@@ -33,3 +33,4 @@ i forget lots markdown how to use
 I am in master branch now!
 
 
+now my computer can not vist Internet
