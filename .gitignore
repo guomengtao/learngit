@@ -1,2 +1,5 @@
 test.txt
 *.mp4
+/runtime
+a.env
+/vendor
