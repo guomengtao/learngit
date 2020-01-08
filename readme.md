@@ -7,7 +7,7 @@ build this readme.md for use markdown to write.
 - try use markdown 
 - answer some questions
 
-## Jack 
+## I build a new version usr git tag ,it is so goood!
 
 i forget lots markdown how to use
 
