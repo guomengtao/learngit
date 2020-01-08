@@ -35,7 +35,11 @@ I am in master branch now!
 
 I could not use push command to my code go github,Because i can not conect the ssh,my internet was shut down  now.
 
-### Learn developer
+### Learn developer 
 - developer from develop + er (some pepole)
 - develop = de (delete/open something ) + velop (like some thing in packege)
 - develop means like use something to lose some clothes
+
+## Try build the first Tag  v0.1
+- use git tag 0.1 could build a tag
+- when commited could put push the tag
