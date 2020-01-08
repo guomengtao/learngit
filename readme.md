@@ -43,3 +43,6 @@ I could not use push command to my code go github,Because i can not conect the s
 ## Try build the first Tag  v0.1
 - use git tag 0.1 could build a tag
 - when commited could put push the tag
+- v1.2.1-rc1
+
+## try link the composer pakagist and usr env file
