@@ -1,0 +1,14 @@
+{
+    "name": "guomengtao/learngit",
+    "description": "Learn git how to auto packagist.org,A short description of what your package does",
+    "require": {
+        "php": "^5.1"
+    },"authors": [
+        {
+            "name": "guomengtao",
+            "email": "250285636@qq.com"
+        }
+    ]
+    
+
+}
