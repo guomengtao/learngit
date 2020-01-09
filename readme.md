@@ -1,5 +1,10 @@
 # learngit log
 
+## learn git new version like v1.2.5-rc1
+
+- try change the reame.md on packegis.org
+- change the require of php version
+
 build this readme.md for use markdown to write.
 
 ### try learn and practice markdown today
