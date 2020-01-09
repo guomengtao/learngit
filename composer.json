@@ -2,7 +2,7 @@
     "name": "guomengtao/learngit",
     "description": "Learn git how to auto packagist.org ",
     "require": {
-        "php": "^7"
+        "php": "^7.0"
     },"authors": [
         {
             "name": "guomengtao",
