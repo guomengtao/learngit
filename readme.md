@@ -1,6 +1,6 @@
 # learngit log
 
-## learn git new version like v1.2.5-rc1
+## learn git new version like v1.2.5-rc2
 
 - try change the reame.md on packegis.org
 - change the require of php version
