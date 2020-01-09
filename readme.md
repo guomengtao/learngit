@@ -2,9 +2,9 @@
 
 ## learn git new version like v1.2.5-rc2
 
-- try change the reame.md on packegis.org
+- try change the reame.md on packagist.org
 - change the require of php version
-
+- try v5.1.x-dev style on packagist.org
 build this readme.md for use markdown to write.
 
 ### try learn and practice markdown today
