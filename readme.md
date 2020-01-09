@@ -6,6 +6,7 @@
 - change the require of php version
 - try v5.1.x-dev style on packagist.org
 - tag v1.2.6
+- tag v1.3.0 could add number 
 - Why i cant bulid like V5.1.x-dev
 build this readme.md for use markdown to write.
 
