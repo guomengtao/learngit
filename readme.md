@@ -5,6 +5,7 @@
 - try change the reame.md on packagist.org
 - change the require of php version
 - try v5.1.x-dev style on packagist.org
+- tag v1.2.6
 build this readme.md for use markdown to write.
 
 ### try learn and practice markdown today

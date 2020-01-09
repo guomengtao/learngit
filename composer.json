@@ -1,8 +1,8 @@
 {
     "name": "guomengtao/learngit",
-    "description": "Learn git how to auto packagist.org of v5.1.x-dev",
+    "description": "Learn git how to auto packagist.org ",
     "require": {
-        "php": "^7"
+        "php": "^5.1.6"
     },"authors": [
         {
             "name": "guomengtao",
