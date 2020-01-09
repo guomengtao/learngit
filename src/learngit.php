@@ -10,7 +10,7 @@ class learngit{
      * @param int $b      数字
      */
 
-	public static function add(int $a,int $ab){
+	public static function add(int $a,int $b){
 		return $a+$b;
 	}
 }
