@@ -1,8 +1,10 @@
 <?php
 
-namespace learngit;
+namespace learngit\src;
 
-class count{
+// if set autoload at this dir ,the namespace learngit
+
+class counts{
 
     /**
      * 返回数字a和b的和
