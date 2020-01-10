@@ -14,7 +14,7 @@
     "homepage": "https://open.gaoxueya.com/",
     "autoload": {
         "psr-4": {
-            "learngit\\": "src/"
+            "learngit\\": "/"
         }
     }
 
