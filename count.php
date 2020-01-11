@@ -13,4 +13,11 @@ class count{
 	public static function add(int $a,int $b){
 		return "count:".$a+$b;
 	}
+	// add dump function
+	public static function dump($var)
+	{
+	    echo '<pre>';
+	    print_r($var);
+	    echo '</pre>';
+	}
 }
