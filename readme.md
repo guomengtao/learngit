@@ -7,7 +7,7 @@ build this readme.md for use markdown to write.
 - try use markdown 
 - answer some questions
 
-## Jack 
+## use switch command to change the branch
 
 i forget lots markdown how to use
 
