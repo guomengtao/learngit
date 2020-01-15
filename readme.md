@@ -20,6 +20,13 @@ i forget lots markdown how to use
 - test diff 
 - practice git 
 
+## learn how many dir of the php.net help book
+
+- php.net help book have more than 10000 pages
+- i want to know how many kins of every dir 
+- i want to change the chm file dir tree to my local
+
+
 ### use pull get the news file when meeting different with server
 
 + pull first
