@@ -1,4 +1,7 @@
-# learngit log
+# learngit log 
+
+## this is for devlop branch of devloper
+
 
 build this readme.md for use markdown to write.
 
