@@ -17,6 +17,7 @@ i forget lots markdown how to use
 ## git ignore files by use .gitignore file
 
 
+working all night for php mananul project 
 - *.mp4
 - ignore.php
 - test.txt
