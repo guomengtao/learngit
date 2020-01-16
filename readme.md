@@ -16,6 +16,7 @@ i forget lots markdown how to use
 
 ## git ignore files by use .gitignore file
 
+try bulid the phpmanual github and gitee project 
 
 working all night for php mananul project 
 - *.mp4
